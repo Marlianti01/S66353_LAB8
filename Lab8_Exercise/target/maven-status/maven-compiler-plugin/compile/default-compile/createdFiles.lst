@@ -1,0 +1,5 @@
+com\carshop\controller\CarControllerServlet.class
+com\carshop\model\Car.class
+com\mycompany\lab8_exercise\JakartaRestConfiguration.class
+com\mycompany\lab8_exercise\resources\JakartaEE10Resource.class
+com\carshop\dao\CarDAO.class
